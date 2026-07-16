@@ -17,11 +17,9 @@ A floating "Listen to this article" widget for WordPress, powered entirely by th
 
 ## Screenshots
 
-```markdown
 ![Collapsed widget](screenshots/widget-collapsed.png)
 ![Expanded widget](screenshots/widget-expanded.png)
 ![Settings page](screenshots/settings-page.png)
-```
 
 ## Installation
 
