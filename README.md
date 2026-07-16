@@ -17,15 +17,11 @@ A floating "Listen to this article" widget for WordPress, powered entirely by th
 
 ## Screenshots
 
-_Add screenshots to a `screenshots/` folder in this repo, then reference them here, e.g.:_
-
 ```markdown
 ![Collapsed widget](screenshots/widget-collapsed.png)
 ![Expanded widget](screenshots/widget-expanded.png)
 ![Settings page](screenshots/settings-page.png)
 ```
-
-Suggested shots: the collapsed icon on a live post, the expanded player, and the Settings → Voice Reader admin screen.
 
 ## Installation
 
