@@ -13,7 +13,6 @@ A floating "Listen to this article" widget for WordPress, powered entirely by th
 - **`[voice_reader]` shortcode** for manual placement, if you'd rather not auto-insert it everywhere
 - **Reset to Defaults** button to wipe customizations and start over
 - Fully self-contained icon (inline SVG) — no external requests, not even to WordPress's own emoji CDN
-- **"View details" popup** on the Plugins screen, matching the info panel WordPress.org-hosted plugins get automatically
 
 ## Screenshots
 
@@ -81,7 +80,6 @@ The widget extracts the plain text of a post/page server-side, then hands it to 
   - `[voice_reader]` shortcode for manual placement
   - Reset to Defaults option
   - Self-contained inline SVG icon (no external requests)
-  - "View details" popup on the Plugins screen
 
 ## License
 
