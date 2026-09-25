@@ -35,9 +35,21 @@ Article Voice Reader adds a floating text-to-speech widget to your posts and pag
 
 == Installation ==
 
-1. Upload the `article-voice-reader` folder to `/wp-content/plugins/`, or install directly from the Plugins → Add New screen
-2. Activate **Article Voice Reader** from the Plugins screen
-3. Configure it at **Settings → Voice Reader**
+= From your WordPress dashboard =
+
+1. Visit **Plugins → Add New**
+2. Search for "Article Voice Reader"
+3. Click **Install Now**, then **Activate**
+
+= Manual installation =
+
+1. Download the plugin as a `.zip` file
+2. Upload the `article-voice-reader` folder to `/wp-content/plugins/`, or install it via **Plugins → Add New → Upload Plugin**
+3. Activate **Article Voice Reader** from the Plugins screen
+
+= Once activated =
+
+Configure it at **Settings → Article Voice Reader**.
 
 = Settings =
 
@@ -61,7 +73,7 @@ The dropdown is only shown when the visitor's browser reports more than one avai
 
 = Can I place the widget manually instead of having it auto-inserted? =
 
-Yes. Turn off automatic insertion under Settings → Voice Reader → Widget, then add the `[voice_reader]` shortcode to any post or page where you want it. Note that it always floats at the position configured in settings, regardless of where the shortcode itself is placed in the content.
+Yes. Turn off automatic insertion under Settings → Article Voice Reader → Widget, then add the `[voice_reader]` shortcode to any post or page where you want it. Note that it always floats at the position configured in settings, regardless of where the shortcode itself is placed in the content.
 
 = Does this work on mobile browsers? =
 
@@ -71,7 +83,7 @@ It works wherever the Web Speech API is supported, which varies by browser and O
 
 1. Collapsed widget — the floating icon as visitors first see it
 2. Expanded widget — the player panel with Play/Pause, speed slider, and voice selector
-3. Settings page — Settings → Voice Reader in wp-admin
+3. Settings page — Settings → Article Voice Reader in wp-admin
 4. Widget while actively reading an article aloud
 
 == Changelog ==

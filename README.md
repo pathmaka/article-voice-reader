@@ -29,11 +29,11 @@ A floating "Listen to this article" widget for WordPress, powered entirely by th
    /wp-content/plugins/article-voice-reader/article-voice-reader.php
    ```
 3. Activate **Article Voice Reader** from the Plugins screen
-4. Configure it at **Settings → Voice Reader**
+4. Configure it at **Settings → Article Voice Reader**
 
 Alternatively, zip the `article-voice-reader` folder and install it via **Plugins → Add New → Upload Plugin**.
 
-## Settings (Settings → Voice Reader)
+## Settings (Settings → Article Voice Reader)
 
 | Setting | Description |
 |---|---|
